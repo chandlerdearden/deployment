@@ -10,4 +10,4 @@ app.use(express.static(`${__dirname}/public`))
 
 
 
-app.listen(4040, () => console.log("server is running on 4040"))
+app.listen(4000, () => console.log("server is running on 4000"))
